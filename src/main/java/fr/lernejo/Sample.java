@@ -25,5 +25,6 @@ public class Sample {
         Operation(BiFunction<Integer, Integer, Integer> func) {
             this.func = func;
         }
+
     }
 }
